@@ -46,7 +46,8 @@ This tutorial outlines examples of ticket lifecycles.<br />
 <br />
 
  <p>
-2.  Allow anyone to create tickets.  Admin Panel -> Settings -> User Settings.  Registration Required: Require registration and login to create tickets.  Configure Agents (workers).  Admin Panel -> Agents -> Add New Jane John.  Configure Users (customers).  Agent Panel -> Users -> Add New Karen Ken.
+2.  Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+
 
 
 </p>
