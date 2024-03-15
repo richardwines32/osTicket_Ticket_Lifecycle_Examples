@@ -79,6 +79,8 @@ This tutorial outlines examples of ticket lifecycles.<br />
 <img width="1512" alt="Screenshot 2024-03-15 at 4 21 49 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/6cae7559-0d8e-400f-bb57-a5a30ced4f8f">
 <img width="1512" alt="Screenshot 2024-03-15 at 4 22 01 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/d8bc3533-1db7-4f70-b0ef-df796bfa1b52">
 <img width="1512" alt="Screenshot 2024-03-15 at 4 22 59 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/5b0b1991-67ba-460b-b7b6-887e7afeeb3e">
+<img width="1512" alt="Screenshot 2024-03-15 at 6 31 47 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/41d2a2c8-5a9d-4d38-8a2e-35da84b09d87">
+<img width="1512" alt="Screenshot 2024-03-15 at 6 33 58 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/9b9c2393-b8f4-4934-bd5e-ac790b60df61">
 
 </p>
 
