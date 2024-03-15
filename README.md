@@ -23,18 +23,22 @@ This tutorial outlines examples of ticket lifecycles.<br />
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-15 at 2 20 48 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/ba6697af-f01b-4787-870e-504bbbb867aa">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 21 02 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/bfeda487-0643-4864-b6a5-a68ed62e7be3">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 21 43 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/a4398537-bf6a-4728-bfb4-58a32c76a37b">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 22 15 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/aa9356fd-576c-44a2-9920-8a145b98dcee">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 23 27 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/f4693c2e-7d93-4699-9580-a6352e409aa8">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 23 32 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/c9c9906b-1e0f-443d-8e26-33a1bd5ad188">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 24 33 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/cceb35bd-63ad-4679-905c-5bdd82881723">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 25 43 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/48736846-2ac7-4f85-9542-1f38814523fc">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 26 06 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/7db266a8-237a-4dc7-bff8-2c1efecafa35">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 26 41 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/6f008520-6659-4726-9d23-0b8f60a9d85e">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 27 36 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/bc86e074-801a-49bb-8b6d-fb7693748396">
-<img width="1512" alt="Screenshot 2024-03-15 at 2 27 45 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/f3a8765f-be20-451c-ace0-608691007246">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 49 59 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/94c6cbe4-9310-4728-b850-5bcf01165f45">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 52 28 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/dba8e48a-bdcf-4fea-9a4d-56eb5d73bccc">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 52 40 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/467635f4-c2a0-44ad-9651-3436313e7603">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 57 44 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/72eddcf4-ab7f-4562-9f7f-fa3c85f53b11">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 02 11 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/2a6699f3-f041-454c-aa59-9ee0519d5ca2">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 02 57 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/280369a3-cee7-494c-975c-b16ce3e774f6">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 04 09 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/7dcaa5bb-4e0e-4580-8927-e85395a6f43f">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 04 33 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/6c6b0d36-5797-469b-b595-95c56b9b8944">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 04 45 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/49ac34e4-a921-4515-a3de-67dacdcd2313">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 05 24 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/14ef413b-2597-408b-9b84-f618ac752477">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 06 25 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/474e2d33-37df-472c-9dd6-caccf93902fd">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 06 44 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/e3865018-bdf6-4cfd-8716-498009fe5e98">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 07 58 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/b9b2c945-0b9a-40e8-930a-df96fa28d3d5">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 08 13 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/049eedb5-c9bf-4bd3-9105-5f9e3b814ac8">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 09 25 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/2a8c61c0-300f-4f6a-a9bc-b4dfa26f92c0">
+
 
 
 </p>
