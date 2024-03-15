@@ -67,7 +67,7 @@ This tutorial outlines examples of ticket lifecycles.<br />
 <br />
 
 <p>
-3.  Configure SLA.  Admin Panel -> Manage -> SLA.  Sev-A (1 hour, 24/7)  Sev-B (4 hours, 24/7)  Sev-C (8 hours, business hours)
+3.  Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 </p>
 
@@ -81,16 +81,4 @@ This tutorial outlines examples of ticket lifecycles.<br />
 <br />
 
 <p>
-4.  Configure Help Topics.  Admin Panel -> Manage -> Help Topics.  Business Critical Outage.  Personal Computer Issues.  Equipment Request.  Password Reset.
-</p>
-
-</p>
-<img width="1512" alt="Screenshot 2024-03-15 at 3 06 54 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/06df8be9-287c-46bc-86bd-086f12c16909">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 07 34 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/36b183c4-b14e-4593-8ae7-5f4d17dbce64">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 08 08 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/7021f985-7a41-43e0-8351-5b874ec44f58">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 08 29 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/6bebfb33-5ddc-4742-aaea-28dc8cc3adc2">
-
-</p>
-
-<br />
 
