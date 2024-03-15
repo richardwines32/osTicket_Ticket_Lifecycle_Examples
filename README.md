@@ -72,10 +72,14 @@ This tutorial outlines examples of ticket lifecycles.<br />
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-15 at 2 59 22 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/209ff7ef-3b94-423c-92df-7e99fb20d2c5">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 00 35 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/f287cbeb-0b61-4dd1-95ca-6b2cda7ba282">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 01 05 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/059c0885-e93a-402d-b800-c97868f16f99">
-<img width="1512" alt="Screenshot 2024-03-15 at 3 01 31 PM" src="https://github.com/richardwines32/osTicket_Post_Install_Configuration/assets/162821778/b23a6cda-b2f1-45c6-b134-f0cba9b05e85">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 56 37 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/a0d199e4-18b0-402a-afc0-2bd6452f8c2e">
+<img width="1512" alt="Screenshot 2024-03-15 at 3 56 49 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/80ff970b-450e-4448-81ac-f4cd279e8de7">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 21 23 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/67924c7f-40c4-4d52-bc65-bd0dd087deda">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 21 33 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/da1187f2-dfb6-4681-92d2-21fe10a956a4">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 21 49 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/6cae7559-0d8e-400f-bb57-a5a30ced4f8f">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 22 01 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/d8bc3533-1db7-4f70-b0ef-df796bfa1b52">
+<img width="1512" alt="Screenshot 2024-03-15 at 4 22 59 PM" src="https://github.com/richardwines32/osTicket_Ticket_Lifecycle_Examples/assets/162821778/5b0b1991-67ba-460b-b7b6-887e7afeeb3e">
+
 </p>
 
 <br />
