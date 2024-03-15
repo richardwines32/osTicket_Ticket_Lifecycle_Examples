@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post Install and Configurations</h1>
-This tutorial outlines the post install and configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticekt Lifecycle Examples</h1>
+This tutorial outlines examples of ticket lifecycles.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,7 +18,7 @@ This tutorial outlines the post install and configuration of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1.  (Post Installation Setup)  Configure Roles.  Admin Panel -> Agents -> Roles  Supreme Admin.  Configure Departments Admin Panel -> Agents -> Departments  System Administrators.  Configure Teams  Admin Panel -> Agents -> TeamsLevel I Support  Level II Support.
+1.  Ticket examples:  Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 
 </p>
 
